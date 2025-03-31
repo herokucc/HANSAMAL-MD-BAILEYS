@@ -1,6 +1,6 @@
 {
-  "name": "anju-xpro-baileys",
-  "version": "8.5.12",
+  "name": "hansamal-baileys",
+  "version": "8.0.1",
   "description": "WhatsApp API",
   "keywords": [
     "Baileys",
@@ -20,7 +20,7 @@
     "url": ""
   },
   "license": "MIT",
-  "author": "ANJU-XPRO",
+  "author": "IMALKA HANSAMAL",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
